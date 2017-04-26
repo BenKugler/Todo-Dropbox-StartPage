@@ -14,7 +14,7 @@ $(document).ready(function () {
         textArr: null,
         todoText: null,
         todoAdd: false,
-        base: 'WhNNvuPtM7UHSDQAAAAAAAADUBNC7LWevO68hfopFHlK0mJBU4MHUAhjGMDG_LxICWviasH9VASmrz9PUShdgZL5',
+        base: 'API KEY HERE',
         todoCommand: null,
         dbx: new Dropbox({
             accessToken: null
