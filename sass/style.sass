@@ -1,0 +1,47 @@
+@import "varibles"
+    
+body, html
+    overflow: hidden
+    
+body
+    background-color: $Background
+    border-style: 2px solid
+    border-color: $Foreground
+    
+#myCanvas
+    position: absolute
+    overflow: hidden
+    
+#cmdline
+    position: absolute
+    z-index: 9999
+    -webkit-box-shadow: 1px 1px 20px 0px $Foreground-accent
+    -moz-box-shadow: 1px 1px 20px 0px $Foreground-accent
+    box-shadow: 1px 1px 20px 0px $Foreground-accent
+    padding: 8px 8px 8px 8px
+    background-color: $Background
+    border: 5px solid $Background
+    margin: 100px 100px 100px 100px
+    width: 800px
+    height: 400px
+    margin-left: auto
+    margin-right: auto
+    right: 0
+    left: 0
+    
+#cmdline input
+    width: 750px
+    background: none
+    border: none
+    display: inline
+    color: #FFF
+    font-size: 14px
+    outline-width: 0
+    margin-left: auto
+    margin-right: auto
+    
+#cmdline pre
+    color: #FFF
+    
+    
+
