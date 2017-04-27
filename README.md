@@ -23,6 +23,7 @@ While I love todo.txt, the windows and web clients, for me, leave a lot to be de
 - [x] Remove a task
 - [ ] Add date
 - [ ] Append to task
+- [ ] Basic access authentication, real security
 
 ## Conditional Features
 - [ ] Keep Decent Documentation
