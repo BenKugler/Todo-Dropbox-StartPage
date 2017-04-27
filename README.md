@@ -1,6 +1,7 @@
 # Todo-Dropbox-StartPage
 
 ###### My first exploration with Javscript.
+Feel free to contribute or fork.
 
 ## About
 As a multi-platform user, I jump between Linux and Windows a lot, due to this I set out on finding way to organize events and due dates that I would have access to with all my platforms and different ones later. While google calendar is great, I must navigate my way to the calendar every time I use it, this causes me to overlook dates or events easily. I wanted something that was in your face the movement you open a webpage or was only a couple of keystrokes away. Todo.txt fit one of these for Linux, the terminal setup was great, the commands and support was also a plus. But it lacked a similar web and Windows client to that of the Linux one, I found this to be rather disappointing, so I set out to fix that.
